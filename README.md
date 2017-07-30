@@ -15,4 +15,4 @@ URI Today Importer retrieves posts from one WordPress site (URI Today) and impor
 ### Who do I talk to? ###
 
 * URI Web Communications
-* John Pennypacker <jpennypacker@uri.edu>
+* John Pennypacker jpennypacker@uri.edu
