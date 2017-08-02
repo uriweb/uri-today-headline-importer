@@ -83,7 +83,7 @@ function uri_today_importer_add_post($post) {
 		'posts_per_page'   => 1,
 		'orderby'          => 'post_date',
 		'order'            => 'DESC',
-		'post_status'      => 'publish',
+		'post_status'      => 'any',
 		'meta_query' => array(
 			array(
 				'key'     => '_uri_today_post_id',
