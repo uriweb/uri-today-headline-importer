@@ -11,8 +11,3 @@ URI Today Importer retrieves posts from one WordPress site (URI Today) and impor
 * Install plugin
 * activate plugin
 * configure at /wp-admin/options-general.php?page=uri-today-settings
-
-### Who do I talk to? ###
-
-* URI Web Communications
-* John Pennypacker jpennypacker@uri.edu
