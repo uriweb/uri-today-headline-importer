@@ -3,7 +3,7 @@
 Plugin Name: URI Today Importer
 Plugin URI: http://www.uri.edu
 Description: Create news posts from a URI Today feed.
-Version: 1.0.1
+Version: 1.1.0
 Author: John Pennypacker
 Author URI: 
 */
